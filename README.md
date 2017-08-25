@@ -196,6 +196,8 @@ I had a lot of limitation creating the model on my laptop. I faced frequent `out
 
 ## Result
 
+https://github.com/keon/speed/blob/master/predictions.txt
+
 ## Future Work
 
 I believe there is a lot of room for improvements. I wish I could:
